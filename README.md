@@ -1,4 +1,4 @@
-# ProSOT: Distribution-Robust Integration of Single-Cell Protein Data via Unbalanced Optimal Transport![](assets/17704363704599.png)
+# ProSOT: Distribution-Robust Integration of Single-Cell Protein Data via Unbalanced Optimal Transport![](ProSOT.png)
 ## Installation
 It is recommended to create a new environment for ProSOT.
 ```
