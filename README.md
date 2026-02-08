@@ -13,14 +13,3 @@ and then install the required packages below:
 ```
 pip install -r requirements.txt
 ```
-## Usage
-All processed data have already been placed in the corresponding folders under the Data.
-If you want to obtain the results after batch mixing of the PBMC dataset, you can train the model using the following code.
-```
-cd Data/PBMC
-python Data/PBMC/pbmc_proSOT.py
-```
-If you want to evaluate the quality of the obtained embeddings, you can use the following code.
-```
-python Data/PBMC/evaluate_embedding.py
-```
