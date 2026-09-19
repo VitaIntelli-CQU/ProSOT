@@ -13,3 +13,15 @@ and then install the required packages below:
 ```
 pip install -r requirements.txt
 ```
+## Citation
+
+If you find our code useful, please consider citing our work:
+
+```bibtex
+@article{prosot,
+  title={A Selective Batch Integration Framework for Single-Cell Proteomics via Unbalanced Optimal Transport},
+  author={Mao, Jin and Chen, Guo and Lu, Xingming and Xu, Jiangshan and Fan, Nuodi and Fu, Yunqing and Zeng, Yuansong},
+  journal={bioRxiv},
+  year={2026}
+}
+```
