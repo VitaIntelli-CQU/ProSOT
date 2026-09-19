@@ -20,7 +20,7 @@ If you find our code useful, please consider citing our work:
 ```bibtex
 @article{prosot,
   title={A Selective Batch Integration Framework for Single-Cell Proteomics via Unbalanced Optimal Transport},
-  author={Jin Mao , Guo Chen , Xingming Lu , Jiangshan Xu , Nuodi Fan ,Yunqing Fu, Yuansong Zeng},
+  author={Jin Mao, Guo Chen, Xingming Lu, Jiangshan Xu, Nuodi Fan,Yunqing Fu and Yuansong Zeng},
   journal={bioRxiv},
   year={2026}
 }
