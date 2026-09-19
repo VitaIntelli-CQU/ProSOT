@@ -1,4 +1,4 @@
-# ProSOT: Distribution-Robust Integration of Single-Cell Protein Data via Unbalanced Optimal Transport![](ProSOT.png)
+# ProSOT: A Selective Batch Integration Framework for Single-Cell Proteomics via Unbalanced Optimal Transport![](ProSOT.png)
 ## Installation
 It is recommended to create a new environment for ProSOT.
 ```
@@ -20,7 +20,7 @@ If you find our code useful, please consider citing our work:
 ```bibtex
 @article{prosot,
   title={A Selective Batch Integration Framework for Single-Cell Proteomics via Unbalanced Optimal Transport},
-  author={Mao, Jin and Chen, Guo and Lu, Xingming and Xu, Jiangshan and Fan, Nuodi and Fu, Yunqing and Zeng, Yuansong},
+  author={Jin Mao , Guo Chen , Xingming Lu , Jiangshan Xu , Nuodi Fan ,Yunqing Fu, Yuansong Zeng},
   journal={bioRxiv},
   year={2026}
 }
